@@ -25,7 +25,7 @@
         <thead class="">
             <tr>
                 <th>ID</th>
-                <th></th>
+                <th>CIDADE</th>
                 <th>ESTADO</th>
                 <th>CADASTRADO</th>
                 <th>ULTIMA ALTERAÇÃO</th>
